@@ -1,4 +1,4 @@
-# Linked List Projects
+# Python Linked List Projects
 
 This repository contains two projects that implement linked list data structures in Python: a command-line linked list operations program and a restaurant table reservation system.
 
